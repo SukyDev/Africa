@@ -2,9 +2,9 @@
 
 Interesting app for learning about animals in Africa
 
-## Subheader
+## Description
 
 You can watch videos or read info about animals
 
-![GitHub Logo](Africa/Assets.xcassets/Cover/cover-lion.imageset/cover-lion.jpg)
+![GitHub Logo](Images/LionImage.png)
 Format: ![Alt Text](url)
